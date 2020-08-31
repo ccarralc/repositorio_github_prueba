@@ -1,4 +1,8 @@
 Hola, mi nombre es Carlos Carral Cortés y este es un archivo de prueba.
 
 
+
   Este es un cambio sobre el documento que registramos con git.
+
+  Este es un cambio que hice sobre mi rama de trabajo pero que todavía no quiero
+  que se vea reflejado.
